@@ -1,6 +1,6 @@
 
-{% set version = "2.0.0a3" %}
-{% set sha256 = "2d475f02b054b63836d161c7626292116b1e4b0870255e426f07ff843450e07f" %}
+{% set version = "2.0.0rc0" %}
+{% set sha256 = "15f9d081eb1c43dc657ac3cb4d5a7f098164fdd860dd0cbb00ff924858b65b0b" %}
 
 
 package:
